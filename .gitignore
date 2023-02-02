@@ -1,0 +1,16 @@
+*.bag
+*.csv
+*/*.bag
+/build
+/log
+/install
+*/ros2_RL_potentialavoid_ddpg
+*.npy
+/data*
+*.pth
+*.jpg
+*.png
+*.md
+*/.vscode
+*/PyTorch_YOLOv3
+*.active
